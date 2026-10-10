@@ -19,7 +19,6 @@
 ## 🛡️ $ whoami
 
 ```yaml
-analyst:
   name       : Harshit Thakur
   role       : BCA student · aspiring SOC Analyst (Tier 1)
   location   : Madhya Pradesh, India
