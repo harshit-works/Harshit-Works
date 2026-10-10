@@ -1,12 +1,16 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00c853&height=200&text=Harshit%20Thakur&fontColor=ffffff&fontSize=48&desc=Aspiring%20SOC%20Analyst%20%E2%80%A2%20Blue%20Team%20%E2%80%A2%20Detection%20%26%20Investigation&descSize=16&descAlignY=65)
+<img src="./banner.svg" alt="Harshit Thakur - Aspiring SOC Analyst" width="100%">
+
+<br>
 
 ![Status](https://img.shields.io/badge/STATUS-BUILDING%20TOWARDS%20SOC%20ROLES-00c853?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC%20Level%201%20in%20progress-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)
+![SOC L1](https://img.shields.io/badge/SOC%20Level%201-in%20progress-212c42?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](<your-linkedin-url>)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:<your-email>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitthakur.2206@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR_TRYHACKME_PROFILE_URL)
 
 </div>
 
@@ -16,13 +20,13 @@
 
 ```yaml
 analyst:
-  name      : Harshit Thakur
-  role      : BCA student · aspiring SOC Analyst (Tier 1)
-  location  : Madhya Pradesh, India
-  education : BCA, Barkatullah University, Bhopal
-  focus     : [ Log Analysis, Alert Triage, Threat Detection, Incident Response ]
-  tools     : [ Splunk (SPL), Wazuh, Wireshark, Python, Linux ]
-  next_up   : MCA, then deeper systems and detection engineering
+  name       : Harshit Thakur
+  role       : BCA student · aspiring SOC Analyst (Tier 1)
+  location   : Madhya Pradesh, India
+  education  : BCA, Barkatullah University, Bhopal
+  focus      : [ Log Analysis, Alert Triage, Threat Detection, Incident Response ]
+  tools      : [ Splunk (SPL), Wazuh, Wireshark, Python, Linux ]
+  next_up    : MCA, then deeper systems and detection engineering
   looking_for: SOC internships
 ```
 
@@ -34,15 +38,15 @@ I'm learning blue-team work hands-on: investigating alerts, reading logs, and wr
 
 | TryHackMe | LetsDefend | Home lab | Case studies |
 |:--:|:--:|:--:|:--:|
-| <n> rooms completed | <n> alerts investigated | <in progress / done> | <n> published |
+| Pre Security, Cyber Security 101 done · SOC L1 in progress | 0 alerts so far | planned | 0 published |
 
 ---
 
 ## 🔎 $ cat how_i_investigate.md
 
-Alert → Scope (host, user, IP, time) → Evidence in logs → True/False positive → Timeline → Recommendation
+`Alert → Scope (host, user, IP, time) → Evidence in logs → True/False positive → Timeline → Recommendation`
 
-(I'll link real write-ups here as I publish them.)
+Real write-ups will be linked here as I publish them.
 
 ---
 
