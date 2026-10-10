@@ -139,12 +139,35 @@ flowchart LR
 
 ---
 
-## 📜 $ cat certifications.log
+## 📜 $ cat ./certifications.log
+
+<details open>
+<summary><b>🔐 Cybersecurity</b></summary>
 
 | Certification | Issuer | Date |
 |---|---|---|
-| Pre Security | TryHackMe | 2026 |
 | Cyber Security 101 | TryHackMe | 2026 |
+
+</details>
+
+<details>
+<summary><b>🐍 Data & AI</b></summary>
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Python for Data Science | Cognitive Class | Jan 2025 |
+| BCG GenAI Job Simulation | Forage | Jan 2025 |
+
+</details>
+
+<details>
+<summary><b>🌐 Networking</b></summary>
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Add your Cisco course once you finish it | Cisco Networking Academy | |
+
+</details>
 
 ---
 
