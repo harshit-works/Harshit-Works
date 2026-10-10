@@ -29,8 +29,7 @@
   looking_for: SOC internships
 ```
 
-I'm learning blue-team work hands-on: investigating alerts, reading logs, and writing up what I find.
-
+I’m a BCA student training for a SOC analyst role. I’m learning to read logs, triage alerts, and explain what happened and why, and I practice on TryHackMe and LetsDefend. I’m building a home SIEM lab with Wazuh, using Kali to simulate attacks and Windows and Metasploitable as targets, so I can investigate real alerts from attack to conclusion. I already know Python and Linux, and I’m using them to automate log analysis. Every investigation I finish gets written up on this profile.
 ---
 
 ## 📊 Progress (updated as I go)
