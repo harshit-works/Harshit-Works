@@ -49,7 +49,104 @@ Real write-ups will be linked here as I publish them.
 
 ---
 
-## 🧪 Pinned work
-- _Coming soon: first LetsDefend write-up_
-- _Coming soon: Python log analyzer (brute-force detection)_
-- _Coming soon: Wazuh home lab + case studies_
+## 📈 $ git log --stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit-works&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=harshit-works&theme=dark&hide_border=true)
+
+---
+
+## 🧭 $ cat soc_playbook.md — how I plan to handle an alert
+
+```mermaid
+flowchart LR
+    A[Alert fires<br/>SIEM] --> B[Triage<br/>host, user, IP, time]
+    B --> C{Suspicious?}
+    C -- No --> D[Close as false positive<br/>note the reason]
+    C -- Yes --> E[Enrich<br/>logs, threat intel, ATT&CK]
+    E --> F[Build timeline]
+    F --> G[Escalate to Tier 2<br/>with evidence]
+```
+
+---
+
+## 📒 $ cat training.log
+
+```
+[2026] TryHackMe: Pre Security, Cyber Security 101 completed
+[2026] TryHackMe: SOC Level 1 in progress
+[2026] Splunk (SPL) basics completed
+[NEXT] LetsDefend alert investigations
+[NEXT] Home SIEM lab (Wazuh + Kali + Windows + Metasploitable)
+[NEXT] 3 case studies: phishing, endpoint detection, network threat hunt
+```
+
+---
+
+## ⚔️ $ cat ./arsenal.conf
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔵 Blue Team: Detect & Respond**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-in%20progress-005571?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE%20ATT%26CK-learning-c8102e?style=flat-square)
+
+<sub>Log analysis · alert triage · SPL searches · traffic analysis</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Red Team: Basics**
+
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=flat-square)
+![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+
+<sub>Recon and web testing fundamentals. Deeper offensive work comes later.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💻 Code & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<sub>Scripting for log parsing and automation</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 Learning Next**
+
+![Sigma](https://img.shields.io/badge/Sigma%20rules-planned-555555?style=flat-square)
+![Atomic](https://img.shields.io/badge/Atomic%20Red%20Team-planned-555555?style=flat-square)
+![Zeek](https://img.shields.io/badge/Zeek-planned-555555?style=flat-square)
+
+<sub>Detection engineering and threat hunting</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 $ cat certifications.log
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Pre Security | TryHackMe | 2026 |
+| Cyber Security 101 | TryHackMe | 2026 |
+
+---
+
+## 🧪 Projects
+Coming soon: Python log analyzer, Wazuh home lab, SOC case studies.
