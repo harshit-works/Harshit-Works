@@ -37,7 +37,7 @@ I’m a BCA student training for a SOC analyst role. I’m learning to read logs
 
 | TryHackMe | LetsDefend | Home lab | Case studies |
 |:--:|:--:|:--:|:--:|
-| Pre Security, Cyber Security 101 done · SOC L1 in progress | 0 alerts so far | planned | 0 published |
+| Pre Security, Cyber Security 101 done · SOC L1 in progress | 1 alerts so far | planned | 1 published |
 
 ---
 
@@ -67,6 +67,14 @@ flowchart LR
     E --> F[Build timeline]
     F --> G[Escalate to Tier 2<br/>with evidence]
 ```
+# SOC Investigations
+
+Alert investigations from LetsDefend and my home lab. Each write-up follows
+Scenario → Evidence → Timeline → Finding → Recommendation.
+
+| # | Alert | Type | Verdict | MITRE |
+|---|---|---|---|---|
+| 1 | [SOC335: CVE-2024-49138 exploitation](letsdefend/soc335-cve-2024-49138/) | Privilege escalation | True positive | T1036, T1068 |
 
 ---
 
