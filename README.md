@@ -37,7 +37,7 @@ I’m a BCA student training for a SOC analyst role. I’m learning to read logs
 
 | TryHackMe | LetsDefend | Home lab | Case studies |
 |:--:|:--:|:--:|:--:|
-| Pre Security, Cyber Security 101 done · SOC L1 in progress | 1 alerts so far | planned | 1 published |
+| Pre Security, Cyber Security 101 done · SOC L1 in progress | 2 alerts so far | planned |  published |
 
 ---
 
