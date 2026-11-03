@@ -5,7 +5,7 @@
 <br>
 
 ![Status](https://img.shields.io/badge/STATUS-BUILDING%20TOWARDS%20SOC%20ROLES-00c853?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![SOC L1](https://img.shields.io/badge/SOC%20Level%201-in%20progress-212c42?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-thakur-infosec/)
